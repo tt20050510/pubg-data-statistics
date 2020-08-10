@@ -1,0 +1,10 @@
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('Kar98k', 0.149);
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('M416', 0.144);
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('M16A4', 0.128);
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('SCAR-L', 0.109);
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('Mini 14', 0.109);
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('SKS', 0.094);
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('AKM', 0.088);
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('UMP9', 0.02);
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('M24', 0.02);
+INSERT INTO pubg.zk_bigdistance_argms (argms, per) VALUES ('AWM', 0.014);

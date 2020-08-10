@@ -1,0 +1,10 @@
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('M416', 0.152);
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('SCAR-L', 0.124);
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('M16A4', 0.123);
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('AKM', 0.113);
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('UMP9', 0.073);
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('S1897', 0.056);
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('Mini 14', 0.041);
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('Kar98k', 0.034);
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('S686', 0.033);
+INSERT INTO pubg.zk_most_arms (argms, per) VALUES ('SKS', 0.031);

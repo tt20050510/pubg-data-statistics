@@ -1,0 +1,10 @@
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('M416', 0.142);
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('AKM', 0.12);
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('SCAR-L', 0.118);
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('M16A4', 0.112);
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('UMP9', 0.094);
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('S1897', 0.083);
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('S686', 0.048);
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('S12K', 0.044);
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('Micro UZI', 0.037);
+INSERT INTO pubg.zk_smalldistance_armgs (armgs, per) VALUES ('Tommy Gun', 0.024);
